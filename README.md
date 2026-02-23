@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi,
+
+I have 3 years expirience in MES (Delmia Apriso) in C#, SQL, XML/XSLT, JS, css, html.
+I have worked over 11 years as CAPI/CATI/CAWI script programmer and data processing operator.
+
+Currently looking for a job in MES or .Net (C#) on medium expirience level.
+
+
+
 
 <!--
 **OdaDoKoda/OdaDoKoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
